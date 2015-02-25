@@ -1,3 +1,8 @@
+# About
+A fork of Netflix's Surus package focusing on the R code. Ignoring the Apache PIG or Java versions.
+
+
+
 # Surus
 
 A collection of tools for analysis in Pig and Hive.
